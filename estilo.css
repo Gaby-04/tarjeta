@@ -1,0 +1,57 @@
+.contenedor{
+    margin-top: 20px;
+    background-color: #242550;
+    height: 500px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+img{
+    
+    margin: 0 auto;
+    border-radius: 100%;
+    width: 50%;
+    height: 25%;
+    border: 5px solid white;
+}
+.texto{
+    margin: 0 auto;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+}
+.row{
+    color: white;
+    margin-left: 20px;
+}
+
+.nombre{
+    font-size: large;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.nombre1{
+    font-size: large;
+    color:#D1D1D1;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.btn{
+    margin-top: 10px;
+    border-radius: 20px;
+    background: linear-gradient(blue 5%, magenta 70%,pink); 
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.btn1{
+    margin-top: 10px;
+    border-radius: 20px;
+    background: linear-gradient(yellow 5%, magenta 70%,pink); 
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.icon{
+   margin-left: 30px;
+   
+}
